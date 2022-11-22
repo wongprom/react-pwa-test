@@ -19,10 +19,29 @@
   https://img.pokemondb.net/artwork/large/${poke.name}.jpg
   ```
 
-#### Good to know/have 🤔
+## Good to know/have 🤔
 
-- Lighthouse extension in dev tools
-![alt text](/public/localImages/lighthouse.png)
+<details>
+  <summary>Lighthouse 🤔</summary>
+    
+  - Lighthouse extension in dev tools
+    ![alt text](/public/localImages/lighthouse.png)
+  - If Server Worker is running, you should have "Service Worker" tab
+    ![alt text](/public/localImages/serviceWorkerRunning.png)
+
+</details>
+
+<details>
+
+  <summary>How to use LighHouse in Dev Tools 💡🏠</summary>
+    
+  - Clicking buttton "Analyze page load" will display errors that have to be fixed
+  ![alt text](/public/localImages/analyzePageLoad.png)
+  - Error I get know, right after implementing Service Worker. I have to fulfill these requirements for PWA application to work correctly ⛔️
+  ![alt text](/public/localImages/error.png)
+
+</details>
+
 <!-- In the project directory, you can run:
 
 ### `npm start`
