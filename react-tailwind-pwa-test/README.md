@@ -1,10 +1,29 @@
-# Getting Started with Create React App
+# Create Pokemon PWA application with create-react-app
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Things I have done...
 
-## Available Scripts
+- Create service worker
 
-In the project directory, you can run:
+## Nice to have URL's
+
+#### Service Worker API -
+
+[https://developer.mozilla.org/en-US/docs/Web/API/Service_Worker_API](https://developer.mozilla.org/en-US/docs/Web/API/Service_Worker_API)
+
+#### Url used in this build 🔗
+
+- ```
+  https://pokeapi.co/api/v2/pokemon?limit=151
+  ```
+- ```
+  https://img.pokemondb.net/artwork/large/${poke.name}.jpg
+  ```
+
+#### Good to know/have 🤔
+
+- Lighthouse extension in dev tools
+![alt text](/public/localImages/lighthouse.png)
+<!-- In the project directory, you can run:
 
 ### `npm start`
 
@@ -67,4 +86,4 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 
 ### `npm run build` fails to minify
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify) -->
