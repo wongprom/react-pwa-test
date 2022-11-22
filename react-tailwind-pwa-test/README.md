@@ -42,6 +42,18 @@
 
 </details>
 
+<details>
+
+  <summary>Make PWA installable</summary>
+    
+  - We have now fulfilled the requirement to make application installable
+  ![alt text](/public/localImages/installable.png)
+  - Install PWA application
+  ![alt text](/public/localImages/install.png)
+  - Open PWA application
+  ![alt text](/public/localImages/openPWA.png)
+  
+</details>
 <!-- In the project directory, you can run:
 
 ### `npm start`
