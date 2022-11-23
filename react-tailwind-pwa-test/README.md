@@ -25,7 +25,7 @@
   <summary>Lighthouse 🤔</summary>
     
   - Lighthouse extension in dev tools
-    ![alt text](/public/localImages/lighthouse.png)
+    ![alt text](./public/localImages/lighthouse.png)
   - If Server Worker is running, you should have "Service Workers" tab
     ![alt text](/public/localImages/serviceWorkerRunning.png)
 
