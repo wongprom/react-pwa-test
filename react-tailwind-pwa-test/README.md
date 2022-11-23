@@ -27,7 +27,7 @@
   - Lighthouse extension in dev tools
     ![alt text](./public/localImages/lighthouse.png)
   - If Server Worker is running, you should have "Service Workers" tab
-    ![alt text](/public/localImages/serviceWorkerRunning.png)
+    ![alt text](./public/localImages/serviceWorkerRunning.png)
 
 </details>
 
@@ -36,9 +36,9 @@
   <summary>How to use LighHouse in Dev Tools 💡🏠</summary>
     
   - Clicking buttton "Analyze page load" will display errors that have to be fixed
-  ![alt text](/public/localImages/analyzePageLoad.png)
+  ![alt text](./public/localImages/analyzePageLoad.png)
   - Error I get know, right after implementing Service Worker. I have to fulfill these requirements for PWA application to work correctly ⛔️
-  ![alt text](/public/localImages/error.png)
+  ![alt text](./public/localImages/error.png)
 
 </details>
 
@@ -47,10 +47,10 @@
   <summary>Make PWA installable</summary>
     
   - We have now fulfilled the requirement to make application installable
-  ![alt text](/public/localImages/installable.png)
+  ![alt text](./public/localImages/installable.png)
   - Install PWA application
-  ![alt text](/public/localImages/install.png)
+  ![alt text](./public/localImages/install.png)
   - Open PWA application
-  ![alt text](/public/localImages/openPWA.png)
+  ![alt text](./public/localImages/openPWA.png)
   
 </details>
